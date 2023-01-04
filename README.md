@@ -27,7 +27,6 @@
 </div>
 
   
-  <div align="center">
-      ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+
+      ![snake gif](https://github.com/PedroBarbosa239/PedroBarbosa239/blob/output/github-contribution-grid-snake.svg)
   
-  </div>

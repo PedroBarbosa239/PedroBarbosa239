@@ -25,3 +25,6 @@
   <a href = "mailto:barbosajs239@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/pedro-barbosa-de-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+  
+    ![Snake animation](https://github.com/PedroBarbosa239/PedroBarbosa239/blob/output/github-contribution-grid-snake.svg)

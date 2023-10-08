@@ -21,10 +21,10 @@
 
 <div>
 
-    <a href = " https://www.instagram.com/pedro_barbosa239/ " target = " _blank " > < img src =  " https://img.shields.io/badge/-Instagram-%23E4405F?style=for _ _ _ _ _ _ _ _ _ _ _ -the-badge&logo=instagram&logoColor=white " target = " _blank " </ a >   
+
 <a href = " https://discord.gg/Demais239#5398 " target = " _blank " > < img src =  " https://img.shields.io/badge/Discord-7289DA?style=for-the- _ _ _ _ _ _ _ _ _ _ _ badge&logo=discord&logoColor=white " target = " _blank " </ a >   
   <a href = " mailto:barbosajs239@gmail.com " > < img src =  " https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white " alvo _ _ _ _ _ _ = " _blank " </ a >  
-  <a href = " www.linkedin.com/in/pedro-barbosa-de-souza " target = " _blank " > < img src =  " https://img.shields.io/badge/-LinkedIn-%230077B5 ? _ _ _ _ _ _ _ _ _ _ style=for-the-badge&logo=linkedin&logoColor=white " target = " _blank " </ a >   
+  <a href = " www.linkedin.com/in/pedro-barbosa-de-souza " target = " _blank " > < img src =  " https://img.shields.io/badge/-LinkedIn-%230077B5 ? _ _ _ _ _ _ _ _ _ _ style=for-the-badge&logo=linkedin&logoColor=white " target = " _blank " </ a > 
   
   ![snake gif](https://github.com/PedroBarbosa239/PedroBarbosa239/blob/output/github-contribution-grid-snake.svg)
   

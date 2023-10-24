@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente trabalhando front-end e back-end
 - 🌱 Estou estudando react e next
+- 🦊 Cursando Engenharia de Software - Anhanguera & Sistema de Informação - UFGD
 
 <div align="center"   >
   <a href="https://github.com/PedroBarbosa239">

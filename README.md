@@ -1,7 +1,7 @@
 ## Oi! Eu me chamo Pedro Barbosa
 
-- 🔭 Atualmente trabalhando front-end e back-end
-- 🌱 Estou estudando react e next
+- 🔭 Atuando atualmente como desenvolvedor e analista de sistemas
+- 🌱 Estou estudando back end
 - 🦊 Cursando Engenharia de Software - Anhanguera & Sistema de Informação - UFGD
 
 <div align="center"   >

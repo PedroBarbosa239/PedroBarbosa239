@@ -1,8 +1,6 @@
 ## Oi! Eu me chamo Pedro Barbosa
 
-- 🔭 Atuando atualmente como desenvolvedor e analista de sistemas
-- 🌱 Estou estudando back end
-- 🦊 Cursando Engenharia de Software - Anhanguera & Sistema de Informação - UFGD
+- 🦊 Cursando Engenharia de Software & Sistema de Informação 
 
 <div align="center"   >
   <a href="https://github.com/PedroBarbosa239">

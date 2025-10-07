@@ -1,31 +1,92 @@
-## Bonjour! Eu me chamo Pedro Barbosa
-- Tecnico em Informática para Internet
-- Cursando Engenharia de Software & Sistema de Informação 
+# 👋 Hey there! I'm Pedro Barbosa
 
-<div align="center"   >
-  <a href="https://github.com/PedroBarbosa239">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=PedroBarbosa239&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBarbosa239&layout=compact&langs_count=7&theme=dracula"/>
+🎓 **Information Systems Student and Software Engineer** — Brazil 🇧🇷  
+💻 Passionate about **Web Development**, **Software Engineering**, and **Technology Education**  
+🚀 Constantly learning and building projects that combine creativity and code.
+
+---
+
+## 🧠 About Me
+
+💡 I’m an Information Systems student who loves exploring both **front-end and back-end** technologies.  
+I enjoy experimenting with interactive projects 
+
+✨ Currently focusing on:
+- 🧩 Full-stack development with **React**, **Node.js**, **Express**, and **MongoDB**
+- ⚙️ Learning **Java** and **C/C++** for deeper programming logic
+- 🐍 Expanding knowledge in **Python** and **data manipulation**
+- 🧠 Improving TypeScript skills for scalable projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💬 Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### ⚙️ Frameworks & Libraries  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🧰 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🌟 Featured Projects
+
+| 💻 Project | 🔗 Link | 🧩 Tech Stack |
+|-------------|----------|---------------|
+| 🌀 **Crazy Button** | [View on GitHub](https://github.com/PedroBarbosa239/Crazy-Button) | HTML, CSS, JavaScript |
+| 🎮 **League of Legends Login Screen** | [Live Demo](https://pedrobarbosa239.github.io/Tela-Login-League-of-Legends-HTML-CSS/) | HTML, CSS |
+| 🧠 **Língua do P Translator** | [Coming soon](https://github.com/PedroBarbosa239) | Python |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroBarbosa239&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroBarbosa239&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroBarbosa239&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=PedroBarbosa239&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Pedro's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroBarbosa239&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
-## Habilidades
+---
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
-    <img align="center" alt="Pedro-React" height="30" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://icongr.am/devicon/express-original.svg?size=128&color=currentColor">
+## 📫 Connect with Me
 
-  
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<a href="https://www.linkedin.com/in/pedro-barbosa239" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:pedrobarbosa239@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/pedrobarbosa239/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
+---
 
-
-
-
+⭐ *“The best way to predict the future is to create it.”*  
+– *Alan Kay*

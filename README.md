@@ -1,6 +1,7 @@
 # 👋 Hey there! I'm Pedro Barbosa
 
-🎓 **Information Systems Student and Software Engineer** — Brazil 🇧🇷  
+🎓 **Information Systems and Software Engineering Student at UFGD and Anhanguera University** — Brazil 🇧🇷  
+💻 Graduated as an Internet Computing Technician from the Federal Institute of Mato Grosso do Sul (IFMS).
 💻 Passionate about **Web Development**, **Software Engineering**, and **Technology Education**  
 🚀 Constantly learning and building projects that combine creativity and code.
 
@@ -45,7 +46,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PedroBarbosa239&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-### 📌 Activity Graph
+## 📌 Activity Graph
 [![Pedro's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroBarbosa239&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>

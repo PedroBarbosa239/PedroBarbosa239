@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Pedro Barbosa
+# 👋Bonjour! I'm Pedro Barbosa
 
 🎓 **Information Systems and Software Engineering Student at UFGD and Anhanguera University** — Brazil 🇧🇷  
 💻 Graduated as an Internet Computing Technician from the Federal Institute of Mato Grosso do Sul (IFMS).

@@ -34,16 +34,6 @@
 
 ---
 
-## 🌟 Featured Projects
-<div align="center">
-| 💻 Project | 🔗 Link | 🧩 Tech Stack |
-|-------------|----------|---------------|
-| 🌀 **Crazy Button** | [View on GitHub](https://github.com/PedroBarbosa239/Crazy-Button) | HTML, CSS, JavaScript |
-| 🎮 **League of Legends Login Screen** | [Live Demo](https://pedrobarbosa239.github.io/Tela-Login-League-of-Legends-HTML-CSS/) | HTML, CSS |
-| 🧠 **Língua do P Translator** | [Coming soon](https://github.com/PedroBarbosa239) | Python |
-</div> 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">

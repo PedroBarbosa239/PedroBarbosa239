@@ -6,19 +6,6 @@
 
 ---
 
-## 🧠 About Me
-
-💡 I’m an Information Systems student who loves exploring both **front-end and back-end** technologies.  
-I enjoy experimenting with interactive projects 
-
-✨ Currently focusing on:
-- 🧩 Full-stack development with **React**, **Node.js**, **Express**, and **MongoDB**
-- ⚙️ Learning **Java** and **C/C++** for deeper programming logic
-- 🐍 Expanding knowledge in **Python** and **data manipulation**
-- 🧠 Improving TypeScript skills for scalable projects
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💬 Languages  

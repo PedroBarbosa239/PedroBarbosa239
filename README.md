@@ -35,13 +35,13 @@
 ---
 
 ## 🌟 Featured Projects
-
+<div align="center">
 | 💻 Project | 🔗 Link | 🧩 Tech Stack |
 |-------------|----------|---------------|
 | 🌀 **Crazy Button** | [View on GitHub](https://github.com/PedroBarbosa239/Crazy-Button) | HTML, CSS, JavaScript |
 | 🎮 **League of Legends Login Screen** | [Live Demo](https://pedrobarbosa239.github.io/Tela-Login-League-of-Legends-HTML-CSS/) | HTML, CSS |
 | 🧠 **Língua do P Translator** | [Coming soon](https://github.com/PedroBarbosa239) | Python |
-
+</div> 
 ---
 
 ## 📊 GitHub Stats
@@ -55,6 +55,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PedroBarbosa239&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+### 📌 Activity Graph
 [![Pedro's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroBarbosa239&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
@@ -63,10 +64,10 @@
 
 ## 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/pedro-barbosa239" target="_blank">
+<a href="https://www.linkedin.com/in/pedro-barbosa-de-souza/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:pedrobarbosa239@gmail.com">
+<a href="mailto:barbosajs239@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/pedrobarbosa239/" target="_blank">
@@ -74,6 +75,3 @@
 </a>
 
 ---
-
-⭐ *“The best way to predict the future is to create it.”*  
-– *Alan Kay*

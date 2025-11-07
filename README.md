@@ -44,7 +44,7 @@
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroBarbosa239&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroBarbosa239&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PedroBarbosa239&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 
 ## 📌 Activity Graph
 [![Pedro's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroBarbosa239&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)

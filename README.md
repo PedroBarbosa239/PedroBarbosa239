@@ -39,11 +39,18 @@
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
 ---
+---
 
+## GitHub Stats
 
-##  Activity Graph
-[![Pedro's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroBarbosa239&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBarbosa239&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBarbosa239&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=PedroBarbosa239&theme=tokyonight&hide_border=true"/>
+</p>
 
 
 ---

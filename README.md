@@ -44,7 +44,7 @@
 ##  Activity Graph
 [![Pedro's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroBarbosa239&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
+
 
 ---
 
@@ -62,4 +62,4 @@
 
 ---
 
-![snake animation](https://github.com/PedroBarbosa239/PedroBarbosa239/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://raw.githubusercontent.com/PedroBarbosa239/PedroBarbosa239/output/github-contribution-grid-snake.svg)

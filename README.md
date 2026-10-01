@@ -75,9 +75,4 @@
 </p>
 
 
-
-<p align="center">
-  <img src="./assets/repositories.dark.svg" width="100%" alt="Repository activity"/>
-</p>
-
 ---

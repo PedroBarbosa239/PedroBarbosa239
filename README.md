@@ -61,3 +61,5 @@
 </a>
 
 ---
+
+![snake animation](https://github.com/PedroBarbosa239/PedroBarbosa239/blob/output/github-contribution-grid-snake2.svg)

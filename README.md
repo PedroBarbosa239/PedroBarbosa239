@@ -44,7 +44,7 @@
 
 ---
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 <a href="https://www.linkedin.com/in/pedro-barbosa-de-souza/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -60,7 +60,7 @@
 
 ---
 
-# 📊 Developer Metrics
+#  Developer Metrics
 
 <p align="center">
   <img src="./assets/overview.dark.svg" width="100%" alt="GitHub overview"/>
@@ -75,9 +75,6 @@
 </p>
 
 
-<p align="center">
-  <img src="./assets/rhythm.dark.svg" width="100%" alt="Coding rhythm"/>
-</p>
 
 <p align="center">
   <img src="./assets/repositories.dark.svg" width="100%" alt="Repository activity"/>

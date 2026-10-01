@@ -1,0 +1,38 @@
+name: Generate Profile Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Generate profile cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: PedroBarbosa239
+
+          cards: >
+            overview,
+            contributions,
+            composition,
+            rhythm,
+            repositories,
+            languages
+
+          output-dir: assets
+          themes: dark
+          language-limit: 8
+          legend: scale
+          commit: true
+          commit-message: "chore(profile): update profile cards [skip ci]"

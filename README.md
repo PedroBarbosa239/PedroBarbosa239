@@ -8,10 +8,14 @@
 ---
 
 ## 🛠️ Tech Stack
+### Languages
 
-<p align="center">
-  <img src="./assets/languages.dark.svg" width="100%" alt="Programming languages"/>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Frameworks & Libraries
 
@@ -56,9 +60,8 @@
 ---
 
 #  Developer Metrics
-
 <p align="center">
-  <img src="./assets/overview.dark.svg" width="100%" alt="GitHub overview"/>
+  <img src="./assets/languages.dark.svg" width="100%" alt="Programming languages"/>
 </p>
 
 

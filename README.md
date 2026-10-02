@@ -9,14 +9,9 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p align="center">
+  <img src="./assets/languages.dark.svg" width="100%" alt="Programming languages"/>
+</p>
 
 ### Frameworks & Libraries
 
@@ -66,9 +61,6 @@
   <img src="./assets/overview.dark.svg" width="100%" alt="GitHub overview"/>
 </p>
 
-<p align="center">
-  <img src="./assets/languages.dark.svg" width="100%" alt="Programming languages"/>
-</p>
 
 <p align="center">
   <img src="./assets/contributions.dark.svg" width="100%" alt="GitHub contributions"/>
